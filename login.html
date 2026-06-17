@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Login Page</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <h1>Login</h1>
+
+    <input type="text" id="username" placeholder="Username">
+    <br><br>
+
+    <input type="password" id="password" placeholder="Password">
+    <br><br>
+
+    <button onclick="loginUser()">Login</button>
+
+    <br><br>
+
+    <a href="register.html">Don't have an account? Register here</a>
+
+    <script>
+function loginUser() {
+    let user = document.getElementById("username").value.trim();
+    let pass = document.getElementById("password").value.trim();
+
+    let storedEmail = localStorage.getItem("userEmail");
+    let storedPassword = localStorage.getItem("userPassword");
+
+    if (user === "" || pass === "") {
+        alert("Please fill all fields!");
+        return;
+    }
+
+    if (user === storedEmail && pass === storedPassword) {
+        alert("Login successful!");
+        window.location.href = "dashboard.html";
+    } else {
+        alert("Invalid credentials!");
+    }
+}
+</script>
+
+</body>
+</html>
+
