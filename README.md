@@ -2,7 +2,7 @@
 A web-based University Examination Management System designed to streamline academic schedules, fee structures, exam centers, and performance tracking for IT students.
 
 # 🔗 Live Demo
-https://srushtichavan659-creator.github.io/UniversityExamSystem/subjects.html
+https://srushtichavan659-creator.github.io/UniversityExamSystem
 
 # 📸 Screenshots
 <img width="1890" height="907" alt="Screenshot 2026-06-19 162241" src="https://github.com/user-attachments/assets/0e962e1e-f6d2-4df3-ad00-3431c6600f95" />
@@ -80,4 +80,4 @@ Extract kiye gaye folder ko open karein jahan saari HTML, CSS aur JS files hain.
 Step 3: Run the Website
 # username: srushti@gmail.com
 # password: 123
-https://srushtichavan659-creator.github.io/UniversityExamSystem/subjects.html
+https://srushtichavan659-creator.github.io/UniversityExamSystem
