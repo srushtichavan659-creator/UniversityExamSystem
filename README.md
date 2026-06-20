@@ -5,6 +5,14 @@ A web-based University Examination Management System designed to streamline acad
 https://srushtichavan659-creator.github.io/UniversityExamSystem
 
 # 📸 Screenshots
+
+<img width="1892" height="907" alt="Screenshot 2026-06-20 112619" src="https://github.com/user-attachments/assets/fedbbfa4-b868-48d7-bf48-8350ae0cfa45" />
+
+
+<img width="1895" height="918" alt="Screenshot 2026-06-20 112937" src="https://github.com/user-attachments/assets/714a2b9a-ddcd-47ba-a655-61378d76cedf" />
+
+
+
 <img width="1890" height="907" alt="Screenshot 2026-06-19 162241" src="https://github.com/user-attachments/assets/0e962e1e-f6d2-4df3-ad00-3431c6600f95" />
 
 
